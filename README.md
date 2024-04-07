@@ -1,6 +1,6 @@
 ---
-layout: page
 title: "Homepage"
+permalink: /
 ---
 
 # rhiannon-udall.github.io
