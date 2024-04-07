@@ -1,6 +1,9 @@
 ---
 title: "Homepage"
 permalink: /
+sidebar:
+    title: "Sidebar Title"
+    nav: "topics"
 ---
 
 # rhiannon-udall.github.io
