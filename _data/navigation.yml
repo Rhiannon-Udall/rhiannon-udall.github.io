@@ -1,8 +1,5 @@
----
-nav:
-  - title: "Why This Exists"
-    url: /AnnotatedGuidesToMyPapers
-    subnav:
-      - title: "Scattering Paper"
-        url: /Udall&Davis2023
----
+topics:
+  - title: Annotated Guides to My Papers
+    children:
+    - title: "Scattering Paper"
+      url: /AnnotatedGuidesToMyPapers/Udall&Davis2023
