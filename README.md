@@ -1,5 +1,8 @@
 ---
+layout: single
+title: "Homepage"
 sidebar:
+    title: "Subjects"
     nav: "topics"
 ---
 
