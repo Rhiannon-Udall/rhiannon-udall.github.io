@@ -1,7 +1,7 @@
 topics:
-  # - title: Annotated Guides to My Papers
-  #   children:
-  #   - title: "Scattering Paper"
-  #     url: /AnnotatedGuidesToMyPapers/Udall&Davis2023
+  - title: Annotated Guides to My Papers
+    children:
+    - title: "Scattering Paper"
+      url: /AnnotatedGuidesToMyPapers/Udall&Davis2023.html
   - title: Sidebar Testing
     url: /SidebarTesting.html
