@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Annotated Guides to My Papers/Udall & Davis 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Annotated Guides to My Papers/Udall & Davis 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Annotated Guides to My Papers/Udall & Davis 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Annotated Guides to My Papers/Udall & Davis 2023.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "2cbd9c308c2477f2",
   "lastOpenFiles": [
+    "_data/navigation.yml",
+    "README.md",
     "_data/sidebar.html",
     "_data",
     "Annotated Guides to My Papers/about.md",
