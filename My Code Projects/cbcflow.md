@@ -1,5 +1,4 @@
 ---
-layout: page
 title: cbcflow
 permalink: /MyCodeProjects/cbcflow
 ---

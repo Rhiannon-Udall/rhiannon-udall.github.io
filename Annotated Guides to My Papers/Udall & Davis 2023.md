@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Scattering Paper
+title: "Scattering Paper"
 permalink: /AnnotatedGuidesToMyPapers/Udall&Davis2023
 ---
 
