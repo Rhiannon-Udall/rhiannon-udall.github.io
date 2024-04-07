@@ -5,8 +5,8 @@ permalink: /
 #     title: "Sidebar Title"
 #     nav: topics
 ---
-
-{% include toc.html html=content %}
+<!-- 
+{% include toc.html html=content %} -->
 
 # Home Page
 
