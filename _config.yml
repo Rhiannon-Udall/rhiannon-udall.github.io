@@ -2,3 +2,22 @@ remote_theme: BDHU/minimalist
 title: Rhiannon's Homepage
 description: It's a website - very much under construction!
 color-scheme: dark
+
+navigation:
+  - name: Home Page
+    link: ./
+    sublist:
+      - name: Usage
+        link: ./#usage
+      - name: Customizing
+        link: ./#customizing
+      - name: Customizing Sidebar
+        link: ./#customizing-sidebar
+      - name: Navigation
+        link: ./#navigation
+      - name: Example
+        link: ./#example
+      - name: Stylesheet
+        link: ./#stylesheet
+  - name: SidebarTesting
+    link: ./SidebarTesting
