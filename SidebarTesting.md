@@ -1,6 +1,6 @@
 ---
 title: "Sidebar Testing"
-permalink: /SidebarTesting.html
+permalink: /SidebarTesting
 ---
 
 # Words
