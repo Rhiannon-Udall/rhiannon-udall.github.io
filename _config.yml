@@ -1,10 +1,10 @@
-defaults:
-  - scope:
-      path: ""
-      type: main
-    values:
-      sidebar:
-        nav: topics
+# defaults:
+#   - scope:
+#       path: ""
+#       type: main
+#     values:
+#       sidebar:
+#         nav: topics
 theme: jekyll-theme-minimal
 title: Rhiannon's Homepage
 description: It's a website - very much under construction!

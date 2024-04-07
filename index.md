@@ -4,7 +4,6 @@ permalink: /
 sidebar:
     title: "Sidebar Title"
     nav: topics
-layout: single
 ---
 
 # Home Page

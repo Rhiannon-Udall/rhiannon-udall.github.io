@@ -148,6 +148,8 @@
   },
   "active": "2cbd9c308c2477f2",
   "lastOpenFiles": [
+    "_includes/toc.html",
+    "_includes",
     "index.md",
     "SidebarTesting.md",
     "_data/navigation.yml",
@@ -163,7 +165,6 @@
     "Annotated Guides to My Papers/Udall & Davis 2023",
     "Annotated Guides to My Papers/Udall and Davis 2023",
     "My Code Projects/cbcflow.md",
-    "My Code Projects/cbcflow",
-    "Annotated Guides to My Papers"
+    "My Code Projects/cbcflow"
   ]
 }
