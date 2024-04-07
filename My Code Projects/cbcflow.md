@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: cbcflow
+permalink: /MyCodeProjects/cbcflow
 ---
 
 # Introduction
