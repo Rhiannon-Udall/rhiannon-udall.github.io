@@ -1,9 +1,6 @@
 ---
-layout: single
+layout: page
 title: "Homepage"
-sidebar:
-    title: "Subjects"
-    nav: "topics"
 ---
 
 # rhiannon-udall.github.io
