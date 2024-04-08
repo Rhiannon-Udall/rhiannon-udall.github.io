@@ -1,6 +1,6 @@
 ---
 title: "Why This Exists"
-permalink: /ExplainersForMyPapers/about.html
+permalink: ./ExplainersForMyPapers/about.html
 layout: default
 ---
 

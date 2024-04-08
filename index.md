@@ -1,6 +1,6 @@
 ---
 title: "Homepage"
-permalink: /
+permalink: ./
 ---
 
 # Home Page
