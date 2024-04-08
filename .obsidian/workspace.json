@@ -148,6 +148,9 @@
   },
   "active": "2cbd9c308c2477f2",
   "lastOpenFiles": [
+    "MyCodeProjects/cbcflow.md",
+    "MyCodeProjects/about.md",
+    "MyCodeProjects",
     "My Code Projects/about.md",
     "ExplainersForMyPapers/Udall&Davis2023.md",
     "Annotated Guides to My Papers/Udall & Davis 2023.md",
@@ -167,7 +170,6 @@
     "_layouts/default.html",
     "_layouts/default",
     "_layouts",
-    "Annotated Guides to My Papers/Udall & Davis 2023",
     "My Code Projects/cbcflow.md"
   ]
 }
