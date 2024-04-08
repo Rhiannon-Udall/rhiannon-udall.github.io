@@ -6,11 +6,11 @@ color-scheme: dark
 navigation:
   - name: My Code Projects
     link: ./MyCodeProjects/about.html
-    sub-list:
+    sublist:
       - name: CBCFlow
         link: ./MyCodeProjects/cbcflow.html
   - name: Explainers for my Papers
     link: ./ExplainersForMyPapers/about.html
-    sub-list:
+    sublist:
       - name: Udall & Davis 2023
         link: ./ExplainersForMyPapers/Udall&Davis2023.html
