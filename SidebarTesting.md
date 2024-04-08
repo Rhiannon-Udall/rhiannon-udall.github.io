@@ -1,6 +1,7 @@
 ---
 title: "Sidebar Testing"
 permalink: /SidebarTesting
+layout: default
 ---
 
 # Words
