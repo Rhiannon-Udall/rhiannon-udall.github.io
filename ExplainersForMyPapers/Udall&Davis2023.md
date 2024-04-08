@@ -1,6 +1,6 @@
 ---
 title: "Scattering Paper"
-permalink: ./ExplainersForMyPapers/Udall&Davis2023.html
+permalink: /ExplainersForMyPapers/Udall&Davis2023.html
 layout: default
 ---
 
