@@ -1,8 +1,8 @@
-remote_theme: BDHU/minimalist
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Rhiannon's Homepage
 description: It's a website - very much under construction!
 color-scheme: dark
 
-sidebar:
+navigation:
   - name: SidebarTesting
     link: ./SidebarTesting.html
