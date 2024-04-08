@@ -1,6 +1,7 @@
 ---
 title: "Why This Exists"
-permalink: /AnnotatedGuidesToMyPapers
+permalink: /ExplainersForMyPapers
+layout: default
 ---
 
 # About

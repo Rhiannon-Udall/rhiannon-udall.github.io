@@ -4,5 +4,13 @@ description: It's a website - very much under construction!
 color-scheme: dark
 
 navigation:
-  - name: SidebarTesting
-    link: ./SidebarTesting.html
+  - name: My Code Projects
+    link: ./MyCodeProjects/about.html
+    sub-list:
+      - name: CBCFlow
+        link: ./MyCodeProjects/cbcflow.html
+  - name: Explainers for my Papers
+    link: ./ExplainersForMyPapers/about.html
+    sub-list:
+      - name: Udall & Davis 2023
+        link: ./ExplainersForMyPapers/Udall&Davis2023.html

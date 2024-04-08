@@ -1,6 +1,6 @@
 ---
 title: cbcflow
-permalink: /MyCodeProjects/cbcflow
+permalink: /MyCodeProjects/cbcflow.html
 ---
 
 # CBCFlow

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annotated Guides to My Papers/Udall & Davis 2023.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annotated Guides to My Papers/Udall & Davis 2023.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annotated Guides to My Papers/Udall & Davis 2023.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annotated Guides to My Papers/Udall & Davis 2023.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "2cbd9c308c2477f2",
   "lastOpenFiles": [
+    "ExplainersForMyPapers/Udall&Davis2023.md",
+    "Annotated Guides to My Papers/Udall & Davis 2023.md",
+    "ExplainersForMyPapers/about.md",
+    "ExplainersForMyPapers/Udall & Davis 2023.md",
+    "ExplainersForMyPapers",
     "_includes/toc.html",
     "_includes",
     "index.md",
@@ -157,14 +162,11 @@
     "_data/sidebar.html",
     "_data",
     "Annotated Guides to My Papers/about.md",
-    "Annotated Guides to My Papers/Udall & Davis 2023.md",
     "Udall & Davis 2023.md",
     "_layouts/default.html",
     "_layouts/default",
     "_layouts",
     "Annotated Guides to My Papers/Udall & Davis 2023",
-    "Annotated Guides to My Papers/Udall and Davis 2023",
-    "My Code Projects/cbcflow.md",
-    "My Code Projects/cbcflow"
+    "My Code Projects/cbcflow.md"
   ]
 }
