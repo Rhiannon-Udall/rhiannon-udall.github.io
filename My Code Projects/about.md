@@ -1,6 +1,6 @@
 ---
 title: "Why This Exists"
-permalink: ./about.html
+permalink: /MyCodeProjects/about.html
 layout: default
 ---
 
