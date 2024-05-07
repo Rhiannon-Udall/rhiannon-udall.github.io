@@ -2,3 +2,8 @@ site_name: Rhiannon's Webpage
 site_url: https://rhiannon-udall.github.io/
 theme:
   name: material
+  features:
+    navigation.tabs
+
+plugins:
+- search
